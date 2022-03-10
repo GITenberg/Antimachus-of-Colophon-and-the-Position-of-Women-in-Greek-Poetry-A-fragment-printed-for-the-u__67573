@@ -1,11 +1,16 @@
 _repo: Antimachus-of-Colophon-and-the-Position-of-Women-in-Greek-Poetry-A-fragment-printed-for-the-u__67573
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67573-h/images/cover.jpg
 creator:
   author:
     agent_name: Benecke, Edward Felix Mendelssohn
     gutenberg_agent_id: '54339'
     url: http://www.gutenberg.org/2009/agents/54339
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67573#Antimachus-of-Colophon-and-the-Position-of-Women-in-Greek-Poetry-A-fragment-printed-for-the-u_
 gutenberg_issued: '2022-03-06'
 identifiers:
   gutenberg: '67573'
